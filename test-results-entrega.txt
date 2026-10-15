@@ -1,0 +1,235 @@
+test_asset_regeneration_and_corrupt_png (self_test.PersistenceTests.test_asset_regeneration_and_corrupt_png) ... WARNING:root:Animação ippo: No such file or directory: '/tmp/tmp986isn12/art/ippo_animation.png'.
+WARNING:root:Animação eren: No such file or directory: '/tmp/tmp986isn12/art/eren_animation.png'.
+WARNING:root:Animação klein: No such file or directory: '/tmp/tmp986isn12/art/klein_animation.png'.
+WARNING:root:Animação musashi: No such file or directory: '/tmp/tmp986isn12/art/musashi_animation.png'.
+WARNING:root:Animação joe: No such file or directory: '/tmp/tmp986isn12/art/joe_animation.png'.
+WARNING:root:Animação thorfinn: No such file or directory: '/tmp/tmp986isn12/art/thorfinn_animation.png'.
+WARNING:root:Animação holden: No such file or directory: '/tmp/tmp986isn12/art/holden_animation.png'.
+WARNING:root:Animação ippo: No such file or directory: '/tmp/tmp986isn12/art/ippo_animation.png'.
+WARNING:root:Animação eren: No such file or directory: '/tmp/tmp986isn12/art/eren_animation.png'.
+WARNING:root:Animação klein: No such file or directory: '/tmp/tmp986isn12/art/klein_animation.png'.
+WARNING:root:Animação musashi: No such file or directory: '/tmp/tmp986isn12/art/musashi_animation.png'.
+WARNING:root:Animação joe: No such file or directory: '/tmp/tmp986isn12/art/joe_animation.png'.
+WARNING:root:Animação thorfinn: No such file or directory: '/tmp/tmp986isn12/art/thorfinn_animation.png'.
+WARNING:root:Animação holden: No such file or directory: '/tmp/tmp986isn12/art/holden_animation.png'.
+WARNING:root:Animação ippo: No such file or directory: '/tmp/tmp986isn12/art/ippo_animation.png'.
+WARNING:root:Animação eren: No such file or directory: '/tmp/tmp986isn12/art/eren_animation.png'.
+WARNING:root:Animação klein: No such file or directory: '/tmp/tmp986isn12/art/klein_animation.png'.
+WARNING:root:Animação musashi: No such file or directory: '/tmp/tmp986isn12/art/musashi_animation.png'.
+WARNING:root:Animação joe: No such file or directory: '/tmp/tmp986isn12/art/joe_animation.png'.
+WARNING:root:Animação thorfinn: No such file or directory: '/tmp/tmp986isn12/art/thorfinn_animation.png'.
+WARNING:root:Animação holden: No such file or directory: '/tmp/tmp986isn12/art/holden_animation.png'.
+WARNING:root:Sprite inválido regenerado: /tmp/tmp986isn12/sprites/characters/leo_walk_0.png
+ok
+test_save_roundtrip_bad_json_and_types (self_test.PersistenceTests.test_save_roundtrip_bad_json_and_types) ... WARNING:root:Save inválido ou indisponível; padrões carregados. Expecting property name enclosed in double quotes: line 1 column 2 (char 1)
+WARNING:root:Save inválido ou indisponível; padrões carregados. Save não é objeto
+ok
+test_all_transforms_preserve_progress_and_expire (self_test.SimulationTests.test_all_transforms_preserve_progress_and_expire) ... ok
+test_all_upgrades_valid (self_test.SimulationTests.test_all_upgrades_valid) ... ok
+test_auto_attack_requires_live_target (self_test.SimulationTests.test_auto_attack_requires_live_target) ... ok
+test_boss_immune_to_root_phase_and_once (self_test.SimulationTests.test_boss_immune_to_root_phase_and_once) ... ok
+test_damage_reward_once_and_xp_collection (self_test.SimulationTests.test_damage_reward_once_and_xp_collection) ... ok
+test_dash_iframes_and_cooldown (self_test.SimulationTests.test_dash_iframes_and_cooldown) ... ok
+test_each_ultimate_single_use_and_damage (self_test.SimulationTests.test_each_ultimate_single_use_and_damage) ... ok
+test_entity_caps (self_test.SimulationTests.test_entity_caps) ... ok
+test_levels_queue_without_lost_xp (self_test.SimulationTests.test_levels_queue_without_lost_xp) ... ok
+test_no_permanent_common_root (self_test.SimulationTests.test_no_permanent_common_root) ... ok
+test_ricochet_homing_dead_targets (self_test.SimulationTests.test_ricochet_homing_dead_targets) ... ok
+test_seed_reproducible (self_test.SimulationTests.test_seed_reproducible) ... ok
+test_skills_and_dance_gameplay (self_test.SimulationTests.test_skills_and_dance_gameplay) ... ok
+test_spawn_outside_screen (self_test.SimulationTests.test_spawn_outside_screen) ... ok
+test_sustained_simulation_all_characters (self_test.SimulationTests.test_sustained_simulation_all_characters) ... ok
+test_swept_collision_and_piercing_once (self_test.SimulationTests.test_swept_collision_and_piercing_once) ... ok
+test_zero_vector_and_dt (self_test.SimulationTests.test_zero_vector_and_dt) ... ok
+test_audio_device_failure (self_test.UITests.test_audio_device_failure) ... ok
+test_complete_ui_flow_and_actual_renders (self_test.UITests.test_complete_ui_flow_and_actual_renders) ... ok
+test_headless_real_loop (self_test.UITests.test_headless_real_loop) ... ok
+test_resize_fullscreen_preserves_session (self_test.UITests.test_resize_fullscreen_preserves_session) ... ok
+test_gravity_and_boss_immunity_to_pull (guxta_test.UnlockTests.test_gravity_and_boss_immunity_to_pull) ... ok
+test_migration_and_required_victories (guxta_test.UnlockTests.test_migration_and_required_victories) ... ok
+test_ui_and_direct_start_guard (guxta_test.UnlockTests.test_ui_and_direct_start_guard) ... ok
+test_all_atlas_variants_load_and_player_art_stays_smooth (rhythm_test.RhythmTests.test_all_atlas_variants_load_and_player_art_stays_smooth) ... ok
+test_chart_is_reachable_without_missing (rhythm_test.RhythmTests.test_chart_is_reachable_without_missing) ... ok
+test_global_damage_swarm_and_immunity (rhythm_test.RhythmTests.test_global_damage_swarm_and_immunity) ... ok
+test_hit_miss_repeat_and_expiry (rhythm_test.RhythmTests.test_hit_miss_repeat_and_expiry) ... ok
+test_pause_and_real_keyboard_routing (rhythm_test.RhythmTests.test_pause_and_real_keyboard_routing) ... ok
+test_walter_evolution_and_two_distinct_forms (rhythm_test.RhythmTests.test_walter_evolution_and_two_distinct_forms) ... ok
+test_actual_four_weapons_charge_in_moderate_time (expansion_test.BalanceRegressionTests.test_actual_four_weapons_charge_in_moderate_time) ... ok
+test_boss_reinforcements_no_longer_overwhelm (expansion_test.BalanceRegressionTests.test_boss_reinforcements_no_longer_overwhelm) ... ok
+test_discrete_shots_keep_energy_between_frames (expansion_test.BalanceRegressionTests.test_discrete_shots_keep_energy_between_frames) ... ok
+test_island_boundary_and_supplied_map_pixels (expansion_test.BalanceRegressionTests.test_island_boundary_and_supplied_map_pixels) ... ok
+test_boss_cannot_skip_phases_with_overpowered_burst (expansion_test.ExpansionTests.test_boss_cannot_skip_phases_with_overpowered_burst) ... ok
+test_davi_atlas_has_alpha_and_separate_forms (expansion_test.ExpansionTests.test_davi_atlas_has_alpha_and_separate_forms) ... ok
+test_davi_attacks_and_control_respect_boss_immunity (expansion_test.ExpansionTests.test_davi_attacks_and_control_respect_boss_immunity) ... ok
+test_empty_playlist_and_corrupt_tracks_never_crash (expansion_test.ExpansionTests.test_empty_playlist_and_corrupt_tracks_never_crash) ... ok
+test_energy_cap_under_hundreds_of_hits (expansion_test.ExpansionTests.test_energy_cap_under_hundreds_of_hits) ... ok
+test_maps_have_distinct_rules_and_safe_spawn (expansion_test.ExpansionTests.test_maps_have_distinct_rules_and_safe_spawn) ... ok
+test_old_save_migrates_new_character_and_music (expansion_test.ExpansionTests.test_old_save_migrates_new_character_and_music) ... ok
+test_playlist_next_wrap_pause_and_volume (expansion_test.ExpansionTests.test_playlist_next_wrap_pause_and_volume) ... ok
+test_real_wav_stream_and_end_event (expansion_test.ExpansionTests.test_real_wav_stream_and_end_event) ... ok
+test_all_six_cutouts_have_real_alpha (art_test.ArtTests.test_all_six_cutouts_have_real_alpha) ... ok
+test_attack_effects_have_distinct_visible_signatures (art_test.ArtTests.test_attack_effects_have_distinct_visible_signatures) ... ok
+test_dancing_frames_differ_and_cache_reused (art_test.ArtTests.test_dancing_frames_differ_and_cache_reused) ... ok
+test_enemy_atlas_and_portraits_are_loaded (art_test.ArtTests.test_enemy_atlas_and_portraits_are_loaded) ... ok
+test_horizontal_direction_persists_and_sprite_is_mirrored (art_test.ArtTests.test_horizontal_direction_persists_and_sprite_is_mirrored) ... ok
+test_missing_art_graceful_fallback (art_test.ArtTests.test_missing_art_graceful_fallback) ... ok
+test_all_auxiliary_weapons_deal_damage (ascension_test.AscensionTests.test_all_auxiliary_weapons_deal_damage) ... ok
+test_all_new_art_states_have_alpha (ascension_test.AscensionTests.test_all_new_art_states_have_alpha) ... ok
+test_all_ui_pages_and_reroll (ascension_test.AscensionTests.test_all_ui_pages_and_reroll) ... ok
+test_build_limits_and_max_rank (ascension_test.AscensionTests.test_build_limits_and_max_rank) ... ok
+test_build_pauses_and_keys_reach_new_content (ascension_test.AscensionTests.test_build_pauses_and_keys_reach_new_content) ... ok
+test_character_evolution_is_level_gated_and_once (ascension_test.AscensionTests.test_character_evolution_is_level_gated_and_once) ... ok
+test_evolution_waits_until_form_ends (ascension_test.AscensionTests.test_evolution_waits_until_form_ends) ... ok
+test_guaranteed_elite_and_chest (ascension_test.AscensionTests.test_guaranteed_elite_and_chest) ... ok
+test_ippo_never_fires_long_range_projectiles (ascension_test.AscensionTests.test_ippo_never_fires_long_range_projectiles) ... ok
+test_klein_paper_substitute_has_cooldown (ascension_test.AscensionTests.test_klein_paper_substitute_has_cooldown) ... ok
+test_marionette_requires_control_time_and_attacks_enemies (ascension_test.AscensionTests.test_marionette_requires_control_time_and_attacks_enemies) ... ok
+test_meta_save_migration_validation (ascension_test.AscensionTests.test_meta_save_migration_validation) ... ok
+test_new_ultimates_hit_and_are_distinct (ascension_test.AscensionTests.test_new_ultimates_hit_and_are_distinct) ... ok
+test_pixel_vfx_visible_and_distinct (ascension_test.AscensionTests.test_pixel_vfx_visible_and_distinct) ... ok
+test_recipes_require_both_conditions (ascension_test.AscensionTests.test_recipes_require_both_conditions) ... ok
+test_rewards_recorded_exactly_once (ascension_test.AscensionTests.test_rewards_recorded_exactly_once) ... ok
+test_shop_affordability_caps_and_effect (ascension_test.AscensionTests.test_shop_affordability_caps_and_effect) ... ok
+test_visual_budget_does_not_change_combat_rng (ascension_test.AscensionTests.test_visual_budget_does_not_change_combat_rng) ... ok
+test_boss_not_spawned_by_elapsed_time (waves_test.WavesTests.test_boss_not_spawned_by_elapsed_time) ... ok
+test_checkpoint_reload_and_endless_death_no_duplicate (waves_test.WavesTests.test_checkpoint_reload_and_endless_death_no_duplicate) ... ok
+test_families_and_endless_population_budget (waves_test.WavesTests.test_families_and_endless_population_budget) ... ok
+test_loot_collected_once_between_waves (waves_test.WavesTests.test_loot_collected_once_between_waves) ... ok
+test_mission_boundaries_and_locked_upgrade_pool (waves_test.WavesTests.test_mission_boundaries_and_locked_upgrade_pool) ... ok
+test_new_character_cutouts_and_map_sprites (waves_test.WavesTests.test_new_character_cutouts_and_map_sprites) ... ok
+test_secrets_require_each_distinct_victory (waves_test.WavesTests.test_secrets_require_each_distinct_victory) ... ok
+test_swept_projectiles_match_exact_collision (waves_test.WavesTests.test_swept_projectiles_match_exact_collision) ... ok
+test_ten_waves_then_optional_endless (waves_test.WavesTests.test_ten_waves_then_optional_endless) ... ok
+test_ui_pagination_secrecy_and_time_substeps (waves_test.WavesTests.test_ui_pagination_secrecy_and_time_substeps) ... ok
+test_atlas_and_hud_are_real_and_control_is_reachable (musashi_test.MusashiTests.test_atlas_and_hud_are_real_and_control_is_reachable) ... ok
+test_soul_mode_and_future_four_player_aura_contract (musashi_test.MusashiTests.test_soul_mode_and_future_four_player_aura_contract) ... ok
+test_sword_death_soul_and_ultimate_are_distinct (musashi_test.MusashiTests.test_sword_death_soul_and_ultimate_are_distinct) ... ok
+test_three_paths_unlock_by_level_and_wait_for_form (musashi_test.MusashiTests.test_three_paths_unlock_by_level_and_wait_for_form) ... ok
+test_all_maps_have_distinct_generated_enemies_and_bosses (visual_upgrade_test.VisualUpgradeTests.test_all_maps_have_distinct_generated_enemies_and_bosses) ... ok
+test_cropped_effect_pass_matches_full_pass_without_stale_pixels (visual_upgrade_test.VisualUpgradeTests.test_cropped_effect_pass_matches_full_pass_without_stale_pixels) ... ok
+test_every_generated_vfx_and_projectile_is_visible (visual_upgrade_test.VisualUpgradeTests.test_every_generated_vfx_and_projectile_is_visible) ... ok
+test_generated_terrain_is_distinct_and_optional (visual_upgrade_test.VisualUpgradeTests.test_generated_terrain_is_distinct_and_optional) ... ok
+test_missing_generated_monsters_and_effects_fall_back (visual_upgrade_test.VisualUpgradeTests.test_missing_generated_monsters_and_effects_fall_back) ... ok
+test_quality_setting_migrates_persists_and_rejects_invalid (visual_upgrade_test.VisualUpgradeTests.test_quality_setting_migrates_persists_and_rejects_invalid) ... ok
+test_render_modes_preserve_randomness_and_simulation (visual_upgrade_test.VisualUpgradeTests.test_render_modes_preserve_randomness_and_simulation) ... ok
+test_road_bonus_matches_generated_avenue_grid (visual_upgrade_test.VisualUpgradeTests.test_road_bonus_matches_generated_avenue_grid) ... ok
+test_vfx_transform_cache_is_bounded (visual_upgrade_test.VisualUpgradeTests.test_vfx_transform_cache_is_bounded) ... ok
+test_all_upgrade_choices_are_authoritative_and_duplicate_safe (coop_test.CoopTests.test_all_upgrade_choices_are_authoritative_and_duplicate_safe) ... ok
+test_bad_frame_or_profile_does_not_shutdown_room (coop_test.CoopTests.test_bad_frame_or_profile_does_not_shutdown_room) ... ok
+test_boss_phase_victory_endless_and_new_match_sync (coop_test.CoopTests.test_boss_phase_victory_endless_and_new_match_sync) ... ok
+test_client_transform_ultimate_cinematics_do_not_spend_form_time (coop_test.CoopTests.test_client_transform_ultimate_cinematics_do_not_spend_form_time) ... ok
+test_disconnection_keeps_host_playing_and_frees_lobby_slot (coop_test.CoopTests.test_disconnection_keeps_host_playing_and_frees_lobby_slot) ... ok
+test_four_clients_share_world_and_independent_movement (coop_test.CoopTests.test_four_clients_share_world_and_independent_movement) ... ok
+test_full_room_and_incompatible_versions_are_rejected (coop_test.CoopTests.test_full_room_and_incompatible_versions_are_rejected) ... ok
+test_hostile_damage_targets_each_player_and_revive (coop_test.CoopTests.test_hostile_damage_targets_each_player_and_revive) ... ok
+test_musashi_buff_reaches_real_allies_and_owner_damage_is_independent (coop_test.CoopTests.test_musashi_buff_reaches_real_allies_and_owner_damage_is_independent) ... ok
+test_shared_pickups_do_not_multiply_coins_or_chests (coop_test.CoopTests.test_shared_pickups_do_not_multiply_coins_or_chests) ... ok
+test_snapshot_preserves_sources_owners_builds_and_rhythm (coop_test.CoopTests.test_snapshot_preserves_sources_owners_builds_and_rhythm) ... ok
+test_three_independent_processes_join_and_receive_match (coop_test.CoopTests.test_three_independent_processes_join_and_receive_match) ... ok
+test_all_map_edges_block_players_and_spawn_charging_monsters_inside (cinematic_test.CinematicTests.test_all_map_edges_block_players_and_spawn_charging_monsters_inside) ... ok
+test_enemy_facing_uses_movement_including_retreat_and_charge (cinematic_test.CinematicTests.test_enemy_facing_uses_movement_including_retreat_and_charge) ... ok
+test_failed_trial_does_not_unlock (cinematic_test.CinematicTests.test_failed_trial_does_not_unlock) ... ok
+test_fusion_auto_selection_then_scene_and_fight (cinematic_test.CinematicTests.test_fusion_auto_selection_then_scene_and_fight) ... ok
+test_multiplayer_menu_keyboard_build_cutscene_and_saved_rewards (cinematic_test.CinematicTests.test_multiplayer_menu_keyboard_build_cutscene_and_saved_rewards) ... ok
+test_native_left_art_is_normalized_and_vertical_direction_persists (cinematic_test.CinematicTests.test_native_left_art_is_normalized_and_vertical_direction_persists) ... ok
+test_question_mode_boss_victory_unlocks_first_secret (cinematic_test.CinematicTests.test_question_mode_boss_victory_unlocks_first_secret) ... ok
+test_twenty_four_cinematic_signatures_are_visible_and_different (cinematic_test.CinematicTests.test_twenty_four_cinematic_signatures_are_visible_and_different) ... ok
+test_ua_cells_have_one_isolated_silhouette_without_backdrop (cinematic_test.CinematicTests.test_ua_cells_have_one_isolated_silhouette_without_backdrop) ... ok
+test_world_and_form_freeze_and_ultimate_occurs_after_cutscene_once (cinematic_test.CinematicTests.test_world_and_form_freeze_and_ultimate_occurs_after_cutscene_once) ... ok
+test_cli_diagnostic_uses_script_folder_even_from_another_cwd (installation_test.InstallationTests.test_cli_diagnostic_uses_script_folder_even_from_another_cwd) ... ok
+test_missing_mixed_and_corrupt_files_cannot_pass_integrity (installation_test.InstallationTests.test_missing_mixed_and_corrupt_files_cannot_pass_integrity) ... ok
+test_new_monsters_replace_procedural_and_old_cached_sprites (installation_test.InstallationTests.test_new_monsters_replace_procedural_and_old_cached_sprites) ... ok
+test_package_manifest_identifies_current_code_and_art (installation_test.InstallationTests.test_package_manifest_identifies_current_code_and_art) ... ok
+test_version_screen_has_real_art_and_returns_to_menu (installation_test.InstallationTests.test_version_screen_has_real_art_and_returns_to_menu) ... ok
+test_connect_failure_in_exception_set_reads_SO_ERROR_and_closes (network_test.NetworkTests.test_connect_failure_in_exception_set_reads_SO_ERROR_and_closes) ... ok
+test_failed_connect_ex_is_closed_and_error_distinguishes_unreachable (network_test.NetworkTests.test_failed_connect_ex_is_closed_and_error_distinguishes_unreachable) ... ok
+test_handshake_has_its_own_deadline_and_invalid_pid_is_rejected (network_test.NetworkTests.test_handshake_has_its_own_deadline_and_invalid_pid_is_rejected) ... ok
+test_ipv4_and_port_validation_has_no_raw_inet_pton_failure (network_test.NetworkTests.test_ipv4_and_port_validation_has_no_raw_inet_pton_failure) ... ok
+test_one_accept_configuration_error_does_not_kill_host (network_test.NetworkTests.test_one_accept_configuration_error_does_not_kill_host) ... ok
+test_partial_frames_and_snapshot_coalescing_preserve_control_packets (network_test.NetworkTests.test_partial_frames_and_snapshot_coalescing_preserve_control_packets) ... ok
+test_real_refused_connection_retry_and_listener_port_reuse (network_test.NetworkTests.test_real_refused_connection_retry_and_listener_port_reuse) ... ok
+test_rejection_waits_for_partially_sent_message_before_closing (network_test.NetworkTests.test_rejection_waits_for_partially_sent_message_before_closing) ... ok
+test_timeout_cancel_and_configuration_error_release_pending_socket (network_test.NetworkTests.test_timeout_cancel_and_configuration_error_release_pending_socket) ... ok
+test_windows_pending_socket_never_configured_or_used_early (network_test.NetworkTests.test_windows_pending_socket_never_configured_or_used_early) ... ok
+test_all_four_states_have_distinct_real_walk_and_attack_frames (animation_test.AnimationTests.test_all_four_states_have_distinct_real_walk_and_attack_frames) ... ok
+test_animation_gallery_back_and_menu_keyboard_navigation (animation_test.AnimationTests.test_animation_gallery_back_and_menu_keyboard_navigation) ... ok
+test_attack_sequence_and_persistent_movement_facing (animation_test.AnimationTests.test_attack_sequence_and_persistent_movement_facing) ... ok
+test_browsable_pngs_match_runtime_and_replace_wrong_or_missing_cache (animation_test.AnimationTests.test_browsable_pngs_match_runtime_and_replace_wrong_or_missing_cache) ... ok
+test_evolved_forms_and_marionettist_use_correct_rows (animation_test.AnimationTests.test_evolved_forms_and_marionettist_use_correct_rows) ... ok
+test_hostile_warning_is_visible_over_effects_in_every_quality_mode (animation_test.AnimationTests.test_hostile_warning_is_visible_over_effects_in_every_quality_mode) ... ok
+test_multiplayer_snapshot_preserves_animation_and_damage_flash (animation_test.AnimationTests.test_multiplayer_snapshot_preserves_animation_and_damage_flash) ... ok
+test_network_error_allows_edit_and_retry_without_stale_room (animation_test.AnimationTests.test_network_error_allows_edit_and_retry_without_stale_room) ... ok
+test_pixel_frames_use_nearest_scaling_while_photos_stay_smooth (animation_test.AnimationTests.test_pixel_frames_use_nearest_scaling_while_photos_stay_smooth) ... ok
+test_unicode_font_supports_actual_ui_glyphs (animation_test.AnimationTests.test_unicode_font_supports_actual_ui_glyphs) ... ok
+test_all_arena_patterns_all_phases_are_warned_and_stay_inside (audit_test.AuditBossTests.test_all_arena_patterns_all_phases_are_warned_and_stay_inside) ... ok
+test_charge_holds_origin_while_winding_up (audit_test.AuditBossTests.test_charge_holds_origin_while_winding_up) ... ok
+test_fan_is_bounded_and_hostile (audit_test.AuditBossTests.test_fan_is_bounded_and_hostile) ... ok
+test_phase_change_cancels_old_attack_and_charge (audit_test.AuditBossTests.test_phase_change_cancels_old_attack_and_charge) ... ok
+test_sweep_hits_players_in_strip_not_players_outside (audit_test.AuditBossTests.test_sweep_hits_players_in_strip_not_players_outside) ... ok
+test_bell_and_embers_deal_damage_and_only_evolve_via_recipe (audit_test.AuditCombatTests.test_bell_and_embers_deal_damage_and_only_evolve_via_recipe) ... ok
+test_capped_projectiles_do_not_modify_another_players_shot (audit_test.AuditCombatTests.test_capped_projectiles_do_not_modify_another_players_shot) ... ok
+test_damage_stats_are_actual_and_owned_not_overkill (audit_test.AuditCombatTests.test_damage_stats_are_actual_and_owned_not_overkill) ... ok
+test_expired_pickup_cannot_grant_xp_or_heal_at_wave_clear (audit_test.AuditCombatTests.test_expired_pickup_cannot_grant_xp_or_heal_at_wave_clear) ... ok
+test_final_partial_lifetime_hits_but_cannot_travel_extra_distance (audit_test.AuditCombatTests.test_final_partial_lifetime_hits_but_cannot_travel_extra_distance) ... ok
+test_full_pickup_cap_preserves_chest_once_for_allies (audit_test.AuditCombatTests.test_full_pickup_cap_preserves_chest_once_for_allies) ... ok
+test_klein_multi_level_jump_matches_sequential_evolution (audit_test.AuditCombatTests.test_klein_multi_level_jump_matches_sequential_evolution) ... ok
+test_marionette_uses_controller_distance_not_nearest_ally (audit_test.AuditCombatTests.test_marionette_uses_controller_distance_not_nearest_ally) ... ok
+test_melee_does_not_consume_attack_on_distant_target (audit_test.AuditCombatTests.test_melee_does_not_consume_attack_on_distant_target) ... ok
+test_pickup_collected_by_ally_heals_that_ally_only (audit_test.AuditCombatTests.test_pickup_collected_by_ally_heals_that_ally_only) ... ok
+test_projectile_hits_before_crossing_wall (audit_test.AuditCombatTests.test_projectile_hits_before_crossing_wall) ... ok
+test_ricochet_survives_wall_crossing_when_redirected_inside (audit_test.AuditCombatTests.test_ricochet_survives_wall_crossing_when_redirected_inside) ... ok
+test_spatial_index_accounts_for_large_radius_and_cell_crossing (audit_test.AuditCombatTests.test_spatial_index_accounts_for_large_radius_and_cell_crossing) ... ok
+test_spatial_index_matches_full_collision_scan_with_knockback_and_ricochets (audit_test.AuditCombatTests.test_spatial_index_matches_full_collision_scan_with_knockback_and_ricochets) ... ok
+test_xp_overflow_merges_with_only_live_xp_and_keeps_value (audit_test.AuditCombatTests.test_xp_overflow_merges_with_only_live_xp_and_keeps_value) ... ok
+test_xp_overflow_never_merges_with_health (audit_test.AuditCombatTests.test_xp_overflow_never_merges_with_health) ... ok
+test_stale_end_event_does_not_skip_current_or_paused_track (audit_test.AuditMusicTests.test_stale_end_event_does_not_skip_current_or_paused_track) ... ok
+test_atomic_backup_recovers_previous_checkpoint (audit_test.AuditSaveTests.test_atomic_backup_recovers_previous_checkpoint) ... ok
+test_failed_atomic_replace_retains_original_and_cleans_temporary_files (audit_test.AuditSaveTests.test_failed_atomic_replace_retains_original_and_cleans_temporary_files) ... WARNING:root:Não foi possível salvar os recordes. simulated disk failure
+ok
+test_nan_cannot_overwrite_good_save (audit_test.AuditSaveTests.test_nan_cannot_overwrite_good_save) ... WARNING:root:Não foi possível salvar os recordes. Out of range float values are not JSON compliant: nan
+ok
+test_purchase_rolls_back_when_storage_fails (audit_test.AuditSaveTests.test_purchase_rolls_back_when_storage_fails) ... ok
+test_retry_records_victory_and_new_mission_only_once (audit_test.AuditSaveTests.test_retry_records_victory_and_new_mission_only_once) ... ok
+test_all_characters_forms_and_boss_attacks_round_trip (audit_test.AuditWireTests.test_all_characters_forms_and_boss_attacks_round_trip) ... ok
+test_departed_players_rhythm_is_not_sent_to_remaining_players (audit_test.AuditWireTests.test_departed_players_rhythm_is_not_sent_to_remaining_players) ... ok
+test_finished_boss_wave_does_not_reference_removed_boss (audit_test.AuditWireTests.test_finished_boss_wave_does_not_reference_removed_boss) ... ok
+test_invalid_wire_is_rejected_before_mutating_existing_session (audit_test.AuditWireTests.test_invalid_wire_is_rejected_before_mutating_existing_session) ... ok
+test_large_integer_input_cannot_overflow_and_stop_host (audit_test.AuditWireTests.test_large_integer_input_cannot_overflow_and_stop_host) ... ok
+test_oversized_enemy_warning_and_invalid_direction_are_rejected (audit_test.AuditWireTests.test_oversized_enemy_warning_and_invalid_direction_are_rejected) ... ok
+test_transport_rejects_overflow_numeric_literal (audit_test.AuditWireTests.test_transport_rejects_overflow_numeric_literal) ... ok
+test_arsenal_build_and_all_achievement_pages_fit_screen (audit_ui_test.AuditUITests.test_arsenal_build_and_all_achievement_pages_fit_screen) ... ok
+test_flashes_off_retains_hostile_warning_in_every_quality (audit_ui_test.AuditUITests.test_flashes_off_retains_hostile_warning_in_every_quality) ... ok
+test_result_retries_storage_and_does_not_duplicate_rewards (audit_ui_test.AuditUITests.test_result_retries_storage_and_does_not_duplicate_rewards) ... ok
+test_counter_and_thorfinn_support (expedition_test.ExpeditionTests.test_counter_and_thorfinn_support) ... ok
+test_defeat_echo_is_bounded_and_serializable (expedition_test.ExpeditionTests.test_defeat_echo_is_bounded_and_serializable) ... ok
+test_level_jump_matches_sequential_evolution (expedition_test.ExpeditionTests.test_level_jump_matches_sequential_evolution) ... ok
+test_malformed_extended_state_is_rejected_atomically (expedition_test.ExpeditionTests.test_malformed_extended_state_is_rejected_atomically) ... ok
+test_melee_is_telegraphed_and_can_be_dodged (expedition_test.ExpeditionTests.test_melee_is_telegraphed_and_can_be_dodged) ... ok
+test_monster_animation_uses_simulation_state (expedition_test.ExpeditionTests.test_monster_animation_uses_simulation_state) ... ok
+test_new_menu_paths_render_and_select_rule (expedition_test.ExpeditionTests.test_new_menu_paths_render_and_select_rule) ... ok
+test_new_ultimates_deal_damage_once (expedition_test.ExpeditionTests.test_new_ultimates_deal_damage_once) ... ok
+test_objectives_are_optional_contested_and_reward_once (expedition_test.ExpeditionTests.test_objectives_are_optional_contested_and_reward_once) ... ok
+test_objectives_freeze_in_pause_and_cutscene (expedition_test.ExpeditionTests.test_objectives_freeze_in_pause_and_cutscene) ... ok
+test_protector_specialization_strengthens_ally_aura (expedition_test.ExpeditionTests.test_protector_specialization_strengthens_ally_aura) ... ok
+test_rules_restrict_choices_and_survive_snapshot (expedition_test.ExpeditionTests.test_rules_restrict_choices_and_survive_snapshot) ... ok
+test_short_cinematics_and_save_discoveries (expedition_test.ExpeditionTests.test_short_cinematics_and_save_discoveries) ... ok
+test_six_maps_have_seven_families_and_eight_poses (expedition_test.ExpeditionTests.test_six_maps_have_seven_families_and_eight_poses) ... ok
+test_specializations_are_exclusive_and_capped (expedition_test.ExpeditionTests.test_specializations_are_exclusive_and_capped) ... ok
+test_three_heroes_four_stages_eight_distinct_poses (expedition_test.ExpeditionTests.test_three_heroes_four_stages_eight_distinct_poses) ... ok
+test_twelve_vfx_sequences_have_four_real_frames (expedition_test.ExpeditionTests.test_twelve_vfx_sequences_have_four_real_frames) ... ok
+test_four_hero_room_syncs_rule_path_objectives_cutscenes_and_latency (expedition_test.LegendCoopTests.test_four_hero_room_syncs_rule_path_objectives_cutscenes_and_latency) ... ok
+test_ai_icons_and_ultimate_art_are_unique_and_present (evolution_art_test.EvolutionArtTests.test_ai_icons_and_ultimate_art_are_unique_and_present) ... ok
+test_coop_state_preserves_chosen_stage_and_effect_art_on_each_player (evolution_art_test.EvolutionArtTests.test_coop_state_preserves_chosen_stage_and_effect_art_on_each_player) ... ok
+test_each_evolution_has_different_transform_and_ultimate_titles (evolution_art_test.EvolutionArtTests.test_each_evolution_has_different_transform_and_ultimate_titles) ... ok
+test_every_playable_evolution_has_separate_normal_and_form_bitmaps (evolution_art_test.EvolutionArtTests.test_every_playable_evolution_has_separate_normal_and_form_bitmaps) ... ok
+test_final_thorfinn_ultimate_protects_without_dealing_damage (evolution_art_test.EvolutionArtTests.test_final_thorfinn_ultimate_protects_without_dealing_damage) ... ok
+test_form_walk_and_attack_frames_have_transparent_padding_and_actual_animation (evolution_art_test.EvolutionArtTests.test_form_walk_and_attack_frames_have_transparent_padding_and_actual_animation) ... ok
+test_new_stage_cutscenes_and_hud_render_for_all_qualities (evolution_art_test.EvolutionArtTests.test_new_stage_cutscenes_and_hud_render_for_all_qualities) ... ok
+test_stage_ultimates_have_different_gameplay_patterns (evolution_art_test.EvolutionArtTests.test_stage_ultimates_have_different_gameplay_patterns) ... ok
+test_titan_boss_is_a_single_complete_silhouette_in_each_frame (evolution_art_test.EvolutionArtTests.test_titan_boss_is_a_single_complete_silhouette_in_each_frame) ... ok
+
+----------------------------------------------------------------------
+Ran 203 tests in 315.166s
+
+OK
+SELF TEST: OK

@@ -1,0 +1,3 @@
+# Preserve bytes checked by release_manifest.json on Windows and Linux.
+# Disables automatic LF/CRLF conversion without disabling text diffs.
+* -text

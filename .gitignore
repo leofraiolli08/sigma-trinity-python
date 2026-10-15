@@ -1,0 +1,41 @@
+# Python e ambientes locais
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.pytest_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+build/
+dist/
+*.egg-info/
+
+# Segredos e configurações pessoais
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+credentials*.json
+secrets*.json
+
+# Progresso, diagnósticos e música pessoal
+save.json
+save.json.*
+logs/
+*.log
+DIAGNOSTICO*.txt
+assets/music/*
+!assets/music/COLOQUE_SEUS_MP3_AQUI.txt
+
+# Arquivos do sistema/editor e pacotes de distribuição
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/
+*.zip
+*.7z
+*.rar
