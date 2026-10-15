@@ -1,0 +1,7 @@
+COLOQUE ATÉ CINCO MÚSICAS NESTA PASTA
+
+Sugestão: 01 - titulo.mp3 até 05 - titulo.mp3.
+Também aceita OGG e WAV. Os primeiros cinco arquivos em ordem alfabética entram na playlist.
+Feche e abra novamente o jogo após copiar os arquivos.
+N = próxima faixa. M = silenciar. Configurações = volume da música.
+Nenhuma música está incluída nesta atualização; aguardamos seus MP3.
